@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Grzesiek</h1>
-<h3 align="center">A junior data engineer</h3>
+<h3 align="center">Data engineer</h3>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Data Pipelines Projects
 
-- 🌱 I’m currently learning Docker, Spark
-
-- 👨‍💻 Sample projects are available at [https://grzegorzgatkowski.github.io/](https://grzegorzgatkowski.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/grzegorzgatkowski](https://github.com/grzegorzgatkowski)
 
 - 📫 How to reach me **grzegorzgatkowski@gmail.com**
 
