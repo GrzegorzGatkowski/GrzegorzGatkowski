@@ -19,3 +19,15 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> </a> 
 
+<h3 align="left">My certification and courses:</h3>
+
+- [Data Engineerign Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/a7207fbd1d6ee9ab048bb471e7878e65186c95a1.pdf)
+
+- [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/1c3d172a658ff8e88e3b60a7a6775ebfccb4ce59)
+
+- [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/015e9dbeec17064fecf422c4c7757ceba7f58b41)
+
+- [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/03ffffe17e3cf0df2dc595363f9c18752fa70e93)
+
+- [dbt Fundamentals](https://www.credential.net/a24f8df8-55ce-4f5c-9136-f40c6675c421)
+
