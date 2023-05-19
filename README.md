@@ -17,7 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
-<h3 align="left">My certification and courses:</h3>
+<h3 align="left">My Certifications and courses:</h3>
 
 - [Data Engineerign Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/a7207fbd1d6ee9ab048bb471e7878e65186c95a1.pdf)
 
