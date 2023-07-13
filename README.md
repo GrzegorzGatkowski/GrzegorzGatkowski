@@ -28,13 +28,3 @@
 - [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/03ffffe17e3cf0df2dc595363f9c18752fa70e93)
 
 - [dbt Fundamentals](https://www.credential.net/a24f8df8-55ce-4f5c-9136-f40c6675c421)
-
-### &#x1f4c8; &nbsp; My GitHub Stats
-<a href="https://github.com/GrzegorzGatkowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrzegorzGatkowski&show_icons=true&theme=dark&count_private=true&include_all_commits=true&disable_animations=True&hide=prs,issues,contribs"/>
-  </a>
-&nbsp; <p/> <br/>
-
-<a href="https://github.com/GrzegorzGatkowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzGatkowski&layout=compact&theme=dark&include_all_commits=true&count_private=true&disable_animations=True"/>
-  </a>
